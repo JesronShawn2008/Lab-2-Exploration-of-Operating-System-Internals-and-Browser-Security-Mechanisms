@@ -404,21 +404,22 @@ Students should observe the following.
 
 ---
 
-# SCREENSHOTS REQUIRED
+# SCREENSHOTS 
+<img width="1140" height="581" alt="image" src="https://github.com/user-attachments/assets/92e73787-c71d-4dae-a291-ab5cb9b27440" />
 
-Capture the following screenshots.
+<img width="1143" height="580" alt="image" src="https://github.com/user-attachments/assets/f257d99b-ce9c-48cc-83f9-dd0ef648b6e9" />
 
-1. Docker Desktop Running
-2. Keycloak Login Page
-3. Realm Creation
-4. OAuth Client Configuration
-5. Test User Creation
-6. JWT Token Generated
-7. Python JWT Decoding Output
-8. Browser Security Tab
-9. TLS Certificate Details
+<img width="1144" height="581" alt="image" src="https://github.com/user-attachments/assets/ceb29703-2f9e-4c33-94ed-8090f155384c" />
 
----
+<img width="1141" height="641" alt="image" src="https://github.com/user-attachments/assets/ac829667-f8c1-423a-bba9-c37b7e62ab16" />
+
+<img width="1141" height="581" alt="image" src="https://github.com/user-attachments/assets/c6863f97-2772-4462-9720-a540734a3ee2" />
+
+<img width="734" height="558" alt="image" src="https://github.com/user-attachments/assets/80602375-632b-4ef8-8c1c-b135ee9130b1" />
+
+<img width="934" height="519" alt="image" src="https://github.com/user-attachments/assets/8fd93612-14d3-4855-8f94-95f94c166391" />
+
+<img width="746" height="295" alt="image" src="https://github.com/user-attachments/assets/f84049ec-087b-45f1-a470-b79b1456d816" />
 
 # RESULT
 
